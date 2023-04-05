@@ -1,0 +1,33 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-05T22:53:25Z",
+  "IdClaims": [
+    {
+      "Claim": "t:victoriadecapua"
+    },
+    {
+      "Claim": "mdon:@victoriadecapua@mastodon.social"
+    },
+    {
+      "Claim": "ss:victoriadecapua"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "01aebf988891d5ece8140960",
+    "Timestamp": "2023-04-05T22:57:25Z",
+    "Signature": "0da66f5cb7dc438d259257d98c23e0cdb2fe3283fed915534bd0ab924564e82314b928a861941ed6598a7cbd6dab824b1003d4f23bb44e2f0cadfc2a1726e843d170345c452d212c623c0d2468a4dc26571daf01238acef2356aee7716abec8727ead308fc7ab72d67b5578bd2f9f621c7f65b9d73b125be1496b5d2374dd5ab08f0bfdc18572471f4a5bed820b18251f030e2fdf58b2735dac41f1e1b49ac00e6fd144f8dad5c558606c3e74e81c53a99474633b1d81b3c51c91bee887e696061dcec05bde32876ebfe78ca09c66858ee9d9c02ae353d135d9b1f5ec7152383f7114193bf114a9cd3d821fb902de87cdad978976b85349db18ee7769e6fe284"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "74aec51eb41a2da302e1c00b1de81e90b24ab93e5ee02de70fc95ec2ced9758a",
+  "ContentToHash": "v1|mdon:@victoriadecapua@mastodon.social,post:no-account,spout:no-account,ss:victoriadecapua,t:victoriadecapua|2023-04-05T22:53:25Z"
+}
